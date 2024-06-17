@@ -13,5 +13,7 @@ public class MensagemDTO {
 
     private String nome;
     private String numero;
+    private Integer pedido;
+    private String email;
     private String mensagem;
 }
